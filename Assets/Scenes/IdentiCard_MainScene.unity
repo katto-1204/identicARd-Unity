@@ -755,7 +755,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: -104.407, y: 84.811, z: -84.643005}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -116, y: -152}
+  m_AnchoredPosition: {x: -86, y: -152}
   m_SizeDelta: {x: 500, y: 400}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &236887666
@@ -7562,7 +7562,7 @@ RectTransform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 822622306}
   m_LocalRotation: {x: -0, y: 0.000000022351736, z: -0, w: 1}
-  m_LocalPosition: {x: 0, y: 0, z: -0}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 0.7110715, y: 0.7110715, z: 0.7110715}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -7570,7 +7570,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: -109.433, y: 86.224, z: -85.996}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 58, y: 158}
+  m_AnchoredPosition: {x: 89, y: 158}
   m_SizeDelta: {x: 680, y: 650}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &822622308
@@ -14136,7 +14136,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 57, y: 66}
+  m_AnchoredPosition: {x: 98, y: 66}
   m_SizeDelta: {x: 400, y: 400}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1187625827
@@ -14425,7 +14425,7 @@ RectTransform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1268763949}
   m_LocalRotation: {x: -0, y: 0.00000002235174, z: -0, w: 1}
-  m_LocalPosition: {x: 0, y: 0, z: -0}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 0.99009913, y: 0.9900989, z: 0.9900989}
   m_ConstrainProportionsScale: 0
   m_Children:
@@ -14437,7 +14437,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -54, y: -94}
+  m_AnchoredPosition: {x: -82, y: -94}
   m_SizeDelta: {x: 200, y: 50}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1268763951
@@ -14460,12 +14460,12 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: 'email: elizamarie.abing@hcdc.edu.ph
+  m_text: 'email: xanderjyle.palma@hcdc.edu.ph
 
-    portfolio: https://elizaabing.vercel.app/
+    portfolio: https://adv-portfolio-kohl.vercel.app/
 
     github
-    username: elicitaffairz'
+    username: Xander-Palma'
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: dc36b3fdc14f47ebb36fd484a67e268a, type: 2}
   m_sharedMaterial: {fileID: 2140032, guid: dc36b3fdc14f47ebb36fd484a67e268a, type: 2}
@@ -14492,8 +14492,8 @@ MonoBehaviour:
   m_faceColor:
     serializedVersion: 2
     rgba: 4294967295
-  m_fontSize: 18
-  m_fontSizeBase: 18
+  m_fontSize: 16
+  m_fontSizeBase: 16
   m_fontWeight: 400
   m_enableAutoSizing: 0
   m_fontSizeMin: 18
@@ -15006,7 +15006,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: -104.407, y: 84.811, z: -84.643005}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 245, y: -154}
+  m_AnchoredPosition: {x: 274.99997, y: -154.00003}
   m_SizeDelta: {x: 170, y: 140}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1312503834
